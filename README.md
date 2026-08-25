@@ -17,8 +17,8 @@ Final-year Software Engineering student at the University of Belgrade - School o
 | Project | Highlights | Stack |
 |---|---|---|
 | [RISC-V Preemptive Kernel](https://github.com/markomijanovic/os1-projekat) | Preemptive scheduling, timer interrupts, semaphores, system calls, thread lifecycle, and QEMU-based tests | C, C++, RISC-V Assembly |
-| **xv6 Memory Allocators** | Buddy allocator for physical pages and Slab allocator for kernel-object caching | C, xv6-riscv |
-| **KVM Hypervisor** | Concurrent guest execution, 4 KB/2 MB pages, VM exits, emulated I/O, copy-on-write files, and inter-VM communication | C, Linux KVM, POSIX Threads |
+| [xv6 Memory Allocators](https://github.com/markomijanovic/xv6-memory-allocators) | Buddy allocation for physical pages, slab caches, `kmalloc`/`kfree`, and integration with kernel subsystems | C, xv6-riscv, QEMU |
+| [Linux KVM Hypervisor Labs](https://github.com/markomijanovic/kvm-hypervisor) | Real-mode serial I/O, long-mode setup, 4 KiB/2 MiB paging, VM-exit handling, and IRQ injection | C, x86 Assembly, Linux KVM |
 | **AInstein** | PDF ingestion, chunking, vector retrieval, RAG chat, asynchronous processing, summaries, flashcards, and quizzes | Python, Django, pgvector, Celery, Redis |
 | **Investment Fund Platform** | Multi-service backend, relational/document storage, Redis workflows, Kubernetes Jobs/CronJobs, and smart-contract processing | Python, Flask, SQLAlchemy, MongoDB, Redis, Kubernetes |
 
@@ -43,6 +43,6 @@ Worked as the backend engineer on a road-safety prototype that processed detecti
 
 - Deepening my knowledge of computer architecture, memory systems, and virtualization
 - Building reliable backend/data systems and improving their observability and test coverage
-- Preparing my strongest university projects as reproducible public repositories
+- Maintaining reproducible, documented systems projects with automated build checks
 
 Open to software engineering internship and graduate opportunities.
