@@ -23,7 +23,7 @@ I'm a final-year Software Engineering student at the University of Belgrade - Sc
 | [Road Damage Detection Backend](https://github.com/markomijanovic/Road_Damage_BE) | Hackathon backend for video and GPS metadata ingestion, geolocated detections, persistence, and API/client data flow | Python, FastAPI, SQLAlchemy, SQLite, OpenCV |
 | [Parking System Software Design](https://github.com/markomijanovic/parking-system-software-design) | Complete UML architecture, class and behavioral models, use cases, state machines, and UI workflows | UML, StarUML, Software Architecture |
 | **AInstein** | PDF ingestion, chunking, vector retrieval, RAG chat, asynchronous processing, summaries, flashcards, and quizzes | Python, Django, pgvector, Celery, Redis |
-| **Investment Fund Platform** | Multi-service backend, relational/document storage, Redis workflows, Kubernetes Jobs/CronJobs, and smart-contract processing | Python, Flask, SQLAlchemy, MongoDB, Redis, Kubernetes |
+| [Investment Fund Management Platform](https://github.com/markomijanovic/investment-fund-management-platform) | Multi-service backend, relational/document storage, Redis workflows, Kubernetes Jobs/CronJobs, and smart-contract processing | Python, Flask, SQLAlchemy, MongoDB, Redis, Docker, Kubernetes |
 
 ## Selected achievement
 
