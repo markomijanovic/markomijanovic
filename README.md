@@ -1,6 +1,6 @@
 # Hi, I'm Marko Mijanović
 
-I'm a fourth-year Software Engineering student at the University of Belgrade - School of Electrical Engineering (ETF), expected to graduate in September 2027. I focus on systems programming, operating systems, backend and data engineering, algorithms, and reliable software infrastructure.
+I'm a fourth-year Software Engineering student at the University of Belgrade - School of Electrical Engineering (ETF), expected to graduate in September 2027. My main interests are systems programming and backend development, supported by coursework and projects in operating systems, algorithms, and concurrency.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marko-mijanovic-16b530315/)
 [![Email](https://img.shields.io/badge/Email-markomija8%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:markomija8@gmail.com)
@@ -9,7 +9,7 @@ I'm a fourth-year Software Engineering student at the University of Belgrade - S
 
 - Low-level systems in C/C++ and RISC-V Assembly
 - Operating-system components: scheduling, synchronization, virtual memory, allocation, interrupts, and system calls
-- Backend and data platforms with Python, Apache Spark, Django/Flask, PostgreSQL, MongoDB, Redis, and Celery
+- Backend applications with Python, Django/Flask, PostgreSQL, MongoDB, Redis, and Celery
 - Concurrent and distributed applications in Java and Python
 - Algorithms, data structures, search, optimization, and adversarial game agents
 - Reproducible environments with Docker, Kubernetes, CMake, and automated build checks
@@ -18,9 +18,9 @@ I'm a fourth-year Software Engineering student at the University of Belgrade - S
 
 | Project | Highlights | Stack |
 |---|---|---|
-| [RISC-V Preemptive Kernel](https://github.com/markomijanovic/os1-projekat) | Preemptive scheduling, timer interrupts, semaphores, system calls, thread lifecycle, memory allocation, and QEMU tests | C, C++, RISC-V Assembly |
+| [RISC-V Preemptive Kernel](https://github.com/markomijanovic/os1-projekat) | Preemptive scheduling, timer interrupts, semaphores, system calls, thread lifecycle, memory allocation, and interactive QEMU test scenarios | C, C++, RISC-V Assembly |
 | [xv6 Memory Allocators](https://github.com/markomijanovic/xv6-memory-allocators) | Buddy allocator for physical pages, slab caches, kmalloc/kfree, and integration with kernel subsystems | C, xv6-riscv, QEMU |
-| [Linux KVM Hypervisor](https://github.com/markomijanovic/kvm-hypervisor) | Real-mode I/O, long-mode setup, 4 KiB/2 MiB paging, VM-exit handling, interrupt injection, and concurrent VMs | C, C++, x86 Assembly, Linux KVM |
+| [Linux KVM Hypervisor](https://github.com/markomijanovic/kvm-hypervisor) | Real-mode I/O, long-mode setup, 4 KiB/2 MiB paging, VM-exit handling, interrupt injection; one VM/vCPU per lab | C, x86 Assembly, Linux KVM |
 | [C++ Command-Line Interpreter](https://github.com/markomijanovic/cpp-cli-interpreter) | Self-contained commands, structured parsing, pipelines, I/O redirection, batch execution, and a command factory | C++17, CMake, OOP |
 | [Investment Fund Management Platform](https://github.com/markomijanovic/investment-fund-management-platform) | Multi-service backend, relational/document storage, Redis workflows, Kubernetes Jobs/CronJobs, and smart-contract processing | Python, Flask, MongoDB, Redis, Docker, Kubernetes, Solidity |
 | [Distributed Shopping System](https://github.com/markomijanovic/distributed-shopping-system) | REST gateway and three JMS-connected subsystems for users, products, carts, orders, and transactions | Java EE 8, JAX-RS, JMS, JPA, MySQL |
@@ -41,7 +41,7 @@ I'm a fourth-year Software Engineering student at the University of Belgrade - S
 
 🥈 **2nd Place - Rivian & Volkswagen Group Hackathon**
 
-Together with [Jovan Živanović (@Zivanovix)](https://github.com/Zivanovix), I built a road-safety prototype that processed video and GPS metadata, detected and mapped road damage, and connected the detection pipeline with the client application. I owned the backend APIs, persistence, and end-to-end data flow.
+As part of the hackathon team, I collaborated with [Jovan Živanović (@Zivanovix)](https://github.com/Zivanovix) on a road-safety prototype that processed video and GPS metadata, detected and mapped road damage, and connected the detection pipeline with the client application. I owned the backend APIs, persistence, and end-to-end data flow.
 
 ## Technologies
 
@@ -59,7 +59,7 @@ Together with [Jovan Živanović (@Zivanovix)](https://github.com/Zivanovix), I 
 ## Currently focused on
 
 - Deepening my knowledge of computer architecture, memory systems, and virtualization
-- Building reliable Apache Spark and backend/data pipelines with strong testing and observability
+- Improving backend projects with reproducible setup, regression tests, and clearer runtime limitations
 - Maintaining reproducible, well-documented systems projects with automated build checks
 
 Open to software engineering internship and graduate opportunities for 2027.
